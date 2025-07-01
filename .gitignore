@@ -1,0 +1,6 @@
+# Ignore node_modules de ambos proyectos
+**/node_modules
+# Archivos de entorno
+**/.env
+# Output de producción
+**/dist
